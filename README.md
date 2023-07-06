@@ -1,4 +1,4 @@
-# Certificate Expiry Checker
+# SSL Certificate Expiry Checker
 ## ssl-certificate-expiry-checker
 
 This script allows you to check the expiry date of SSL certificates for a list of Fully Qualified Domain Names (FQDNs) stored in a text file. It uses the `ssl`, `socket`, `datetime`, and `colorama` libraries in Python.
